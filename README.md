@@ -1,2 +1,3 @@
 # Star-Wars-Galaxy-of-Heros-Terminal-Game
 A terminal game version of Star Wars Galaxy of Heros
+Note: Archived due to unwilliness to add more stuff as too many variables too account for...
